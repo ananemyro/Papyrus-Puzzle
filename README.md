@@ -14,15 +14,15 @@ the original game's rules.
 
 ## Installation
 
-1. **Clone the repository**:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/ananemyro/papyrus-tile-puzzle.git
    
-2. **Navigate to the project directory:**:
+2. **Navigate to the project directory:**
    ```bash
    cd papyrus-tile-puzzle
 
-3. **Run the game:**:
+3. **Run the game:**
    ```bash
    python main.py
 
